@@ -26,7 +26,8 @@ This project analyzes sales data using Python to generate business insights thro
 - Sales trends help in forecasting and planning.
 
 ## Dashboard Preview
-![Dashboard](dashboard screenshots/Correlation Heatmap.png)
+
+![Correlation Heatmap](dashboard Screenshots/Correlation Heatmap.png)
 
 ## 🚀 Skills Demonstrated
 - Data Cleaning
